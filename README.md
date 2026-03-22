@@ -7,7 +7,7 @@ Focus: Customer behavior, sales performance, product revenue, and discount analy
 ## Dataset
 - Raw CSV: `data/sales.csv`  
 - Imported directly into MySQL for analysis  
-- Small-sized dataset, suitable for practice and learning SQL
+- Small-sized dataset
 
    ## Project Structure
 ```
