@@ -10,8 +10,6 @@ Focus: Customer behavior, sales performance, product revenue, and discount analy
 - Compact dataset, manageable for focused analysis
 
 ## Project Structure
-
-## Project Structure
 ```
 Sales_Analysis/
 ├─ data/ # Raw CSV dataset
@@ -21,8 +19,6 @@ Sales_Analysis/
 │ └─ architecture.png
 └─ README.md # Project overview
 ```
-
-
 
 ## Analysis Steps
 1. Remove duplicate CustomerIDs (keep highest Sales per customer)  
@@ -36,13 +32,6 @@ Sales_Analysis/
 ## Diagram
 ![Architecture Diagram](docs/architecture.png)
 
-## Notes
-- Cleaned data is generated in MySQL using the `sales_cleaned` table  
-- SQL script handles all cleaning and analysis automatically  
-- The project is small in scale but demonstrates **SQL data cleaning and analysis workflows**
-
-## Diagram
-![Architecture Diagram](docs/architecture.png)
 
 ## Notes
 - Cleaned data is generated in MySQL using the `sales_cleaned` table  
